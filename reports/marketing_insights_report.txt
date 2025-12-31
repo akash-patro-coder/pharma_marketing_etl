@@ -1,0 +1,19 @@
+========================================
+PHARMA MARKETING INSIGHTS REPORT
+========================================
+
+1. TOP PERFORMING BRAND (Conversions)
+   Name: Xtandi
+   Total Conversions: 169195
+
+2. BEST MARKETING CHANNEL (Efficiency)
+   Channel: Print
+   Efficiency: 0.0250 conversions/$1 spend
+
+3. HIGHEST HCP ENGAGEMENT
+   Brand: Vyloy
+   Total Interactions: 4631
+
+4. MOST COST-EFFECTIVE CAMPAIGN (Lowest CPC)
+   Campaign: Campaign_4
+   CPC: $0.53

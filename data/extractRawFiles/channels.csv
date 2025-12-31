@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_type
+1,eDetails,digital
+2,Email,digital
+3,Website,digital
+4,Video,digital
+5,Print,traditional
