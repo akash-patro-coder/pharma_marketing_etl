@@ -32,7 +32,7 @@ The pipeline follows a strict modular design to ensure scalability and ease of d
 
 ```mermaid
 flowchart LR
-    A[Raw Data Source] -->|extract.py| B(data/extractRawFiles)
+    A[Raw] -->|extract.py| B(data/extractRawFiles)
     B -->|transform.py| C{Data Cleaning & Logic}
     C -->|Star Schema| D[Processed CSVs]
     C -->|Star Schema| E[(MySQL Database)]
