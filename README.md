@@ -30,14 +30,14 @@ https://github.com/akash-patro-coder/pharma_marketing_etl/tree/main ---> complet
 
 https://github.com/akash-patro-coder/pharma_marketing_etl/blob/main/data/raw/generate_pharma_marketing_data.py ----> this python file can generating my csv file (10,000, 20,000) raw file creating 
 
-**Data Structure**
+**Data Structure**</br>
 **data/raw**: The original source. We keep these untouched so we always have a backup of the raw truth.
 
 **data/extractRawFiles(staging)**: The staging area. A working copy of the data where the actual processing happens, keeping the originals safe.
 
 **data/processed**: The final output. Clean, ready-to-use data saved as CSVs for auditing or backup.
 
-**The Scripts (Logic)**
+**The Scripts (Logic)**</br>
 **extract.py**: Handles ingestion. Simply reads the source files and moves them to our staging area.
 
 **transform.py**: The cleaning engine. Removes duplicates, calculates KPIs (like ROI), and organizes data into our Star Schema.
